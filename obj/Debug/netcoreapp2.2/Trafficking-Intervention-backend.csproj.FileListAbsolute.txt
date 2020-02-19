@@ -1,0 +1,14 @@
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\bin\Debug\netcoreapp2.2\Trafficking-Intervention-backend.deps.json
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\bin\Debug\netcoreapp2.2\Trafficking-Intervention-backend.runtimeconfig.json
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\bin\Debug\netcoreapp2.2\Trafficking-Intervention-backend.runtimeconfig.dev.json
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\bin\Debug\netcoreapp2.2\Trafficking-Intervention-backend.dll
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\bin\Debug\netcoreapp2.2\Trafficking-Intervention-backend.pdb
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.csprojAssemblyReference.cache
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.csproj.CoreCompileInputs.cache
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.RazorAssemblyInfo.cache
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.RazorAssemblyInfo.cs
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.AssemblyInfoInputs.cache
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.AssemblyInfo.cs
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.RazorTargetAssemblyInfo.cache
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.dll
+D:\Bethel Tech Work\fullStackWeb\Final Project\Trafficking Intervention App\Trafficking-Intervention-backend\obj\Debug\netcoreapp2.2\Trafficking-Intervention-backend.pdb
